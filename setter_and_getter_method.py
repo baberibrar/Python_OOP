@@ -14,6 +14,7 @@ s1 = Employee()
 s1.set_name("XY")
 
 # Call the get_name method to print the name attribute
+
 get_name_data = s1.get_name()
 
 # Print the result of get_name_data (which is None, as get_name does not return anything)
